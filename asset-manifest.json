@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kidspdfadmin/static/css/main.fbf41a3a.css",
-    "main.js": "/kidspdfadmin/static/js/main.b85e2b84.js",
+    "main.css": "/kidspdfadmin/static/css/main.3eca4185.css",
+    "main.js": "/kidspdfadmin/static/js/main.5f233de3.js",
     "static/media/worksheet.png": "/kidspdfadmin/static/media/worksheet.deaae64fe46478d4ce10.png",
     "index.html": "/kidspdfadmin/index.html",
-    "main.fbf41a3a.css.map": "/kidspdfadmin/static/css/main.fbf41a3a.css.map",
-    "main.b85e2b84.js.map": "/kidspdfadmin/static/js/main.b85e2b84.js.map"
+    "main.3eca4185.css.map": "/kidspdfadmin/static/css/main.3eca4185.css.map",
+    "main.5f233de3.js.map": "/kidspdfadmin/static/js/main.5f233de3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbf41a3a.css",
-    "static/js/main.b85e2b84.js"
+    "static/css/main.3eca4185.css",
+    "static/js/main.5f233de3.js"
   ]
 }
